@@ -1,6 +1,10 @@
-# A/B Testing Project: New Customer Discount Impact
+# مشروع اختبار الفرضيات (A/B Testing): أثر خصم 10% للعملاء الجدد
 
-**سؤال المشروع:** هل يؤدي تقديم خصم 10% للعملاء الجدد إلى زيادة معدل إتمام عمليات الشراء في المتجر؟
+- **مشروع ختامي** في برنامج «التجارب واختبارات A/B والاستدلال السببي (A/B Testing and Causal Inference)»، أكاديمية سدايا، نوفمبر 2026.
+- **الاسم:** رهام فيصل قاسم الفيفي
+- **المنتج:** تقييم أثر تقديم خصم 10% للعملاء الجدد على زيادة معدل إتمام عمليات الشراء (E-commerce Welcome Discount A/B Test)
+
+---
 
 ## Overview
 This project analyzes the impact of offering a 10% welcome discount to first-time visitors on an e-commerce platform. The goal is to determine whether the discount significantly improves the checkout conversion rate compared to the standard pricing experience.
@@ -34,3 +38,7 @@ Since the p-value (`0.00025`) is well below the `0.05` threshold, we reject the 
 
 ## Files
 * `ab_test_analysis.py`: Python script for data simulation, conversion calculation, and Z-test execution.
+
+---
+نُفّذ هذا المشروع ضمن برنامج «التجارب واختبارات A/B والاستدلال السببي» في أكاديمية سدايا، نوفمبر 2026.  
+[حساب أكاديمية سدايا على GitHub](https://github.com/SDAIAAcadem)
